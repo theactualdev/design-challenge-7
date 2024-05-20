@@ -14,7 +14,7 @@ function App() {
     <>
     <div className="wrapper md:px-[60px]">
       <div className="content md:w-[60%]">
-        <h1 className='font-bold md:text-[72px] text-[60px] md:px-0 px-6 mb-[70px]'>Design <br className='md:hidden' /> is the way how you express the feelings</h1>
+        <h1 className='font-bold md:text-[72px] text-[58px] md:px-0 px-6 mb-[70px]'>Design <br className='md:hidden' /> is the way how you express the feelings</h1>
       </div>
       <div className="gallery flex justify-between md:flex-row flex-col items-center">
         {galleryList.map((image, index) => (
